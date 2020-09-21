@@ -71,9 +71,9 @@ Farem un estudi amb profunditat des d'aquest article sobre enginyeria del softwa
 ### Software de programació
 És el conjunt d'eines que permeten al programador desenvolupar programes informàtics, usant diferents alternatives i llenguatges de programació, d'una manera pràctica. Inclouen bàsicament:
 
-editors de text
-compiladors
-intèrprets
-enllaçadors
-depuradors
-entorns de desenvolupament integrats (IDE): Agrupen les anteriors eines, usualment en un entorn visual, de manera que el programador no necessiti introduir múltiples ordres per compilar, interpretar, depurar, etc. Habitualment compten amb una avançada interfície gràfica d'usuari (GUI).
+- editors de text
+- compiladors
+- intèrprets
+- enllaçadors
+- depuradors
+- entorns de desenvolupament integrats (IDE): Agrupen les anteriors eines, usualment en un entorn visual, de manera que el programador no necessiti introduir múltiples ordres per compilar, interpretar, depurar, etc. Habitualment compten amb una avançada interfície gràfica d'usuari (GUI).
