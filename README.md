@@ -59,12 +59,12 @@ I per últim, hi ha aquesta [comparativa](https://en.wikipedia.org/wiki/Comparis
 ### Cicle de vida
 Un procés per al desenvolupament de programari és una estructura aplicada al desenvolupament d'un producte de programari. Hi ha diversos models a seguir per a l'establiment d'un procés per al desenvolupament de programari, cadascun dels quals descriu un enfocament diferent per a diferents activitats que tenen lloc durant el procés.
 
-1. Anàlisi: Construeix un model dels requisits.
-1. Disseny: A partir del model d'anàlisi es dedueixen les estructures de dades, l'estructura en què descompon el sistema i la interfície d'usuari.
-1. Codificació: Construeix el sistema. La sortida d'aquesta fase és [codi executable](https://ca.wikipedia.org/wiki/Codi_executable).
-1. Proves: Es comprova que es compleixen criteris de correcció i qualitat.
-1. Manteniment i explotació: En aquesta fase, que té lloc després del lliurament s'assegura que el sistema segueixi funcionant i adaptant-se a nous requisits.
-1. Documentació: La documentació és una tasca important que es realitza a totes les etapes. Cada etapa té com a entrada un o diversos documents procedents de les etapes anteriors i produeix altres documents de sortida.
+- **Anàlisi**: Construeix un model dels requisits.
+- **Disseny**: A partir del model d'anàlisi es dedueixen les estructures de dades, l'estructura en què descompon el sistema i la interfície d'usuari.
+- **Codificació**: Construeix el sistema. La sortida d'aquesta fase és [codi executable](https://ca.wikipedia.org/wiki/Codi_executable).
+- **Proves**: Es comprova que es compleixen criteris de correcció i qualitat.
+- **Manteniment i explotació**: En aquesta fase, que té lloc després del lliurament s'assegura que el sistema segueixi funcionant i adaptant-se a nous requisits.
+- **Documentació**: La documentació és una tasca important que es realitza a totes les etapes. Cada etapa té com a entrada un o diversos documents procedents de les etapes anteriors i produeix altres documents de sortida.
 
 Farem un estudi amb profunditat des d'aquest article sobre enginyeria del software.
 
